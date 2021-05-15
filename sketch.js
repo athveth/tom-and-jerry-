@@ -36,7 +36,7 @@ function draw() {
 
         tom.changeAnimation("lastimage",t3)
         tom.scale=0.2
-        jerry.changeAnimation("lastimagejerry",j3)
+        jerry.changeAnimation("lastImagejerry",j3)
         jerry.scale=0.15;
         
         
